@@ -1,0 +1,9 @@
+{
+  "maxUnitPriceGold": 1000,
+  "dailyLimitYen": 20,
+  "writeHourly": 12,
+  "writeDaily": 60,
+  "writeGapSec": 120,
+  "readGapMs": 1500,
+  "pauseMinutes": 120
+}

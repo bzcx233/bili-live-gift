@@ -1,0 +1,18 @@
+# 别把登录态提交上去
+
+cookies.json
+*.cookies.json
+.env
+.env.*
+
+# 本地状态：流水、闸门状态、配置
+ledger.jsonl
+guard-state.json
+config.json
+data/
+
+# 依赖与产物
+node_modules/
+package-lock.json
+*.log
+.DS_Store
